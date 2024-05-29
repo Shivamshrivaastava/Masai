@@ -1,0 +1,23 @@
+1. Read input values L1, B1, L2, and B2
+2. Calculate the area of rectangle 1: area1 = L1 * B1
+3. Calculate the area of rectangle 2: area2 = L2 * B2
+4. Calculate the perimeter of rectangle 1: perimeter1 = 2 * (L1 + B1)
+5. Calculate the perimeter of rectangle 2: perimeter2 = 2 * (L2 + B2)
+6. If area1 > area2:
+     - Print "true" (area of rectangle 1 is greater than area of rectangle 2)
+   Else:
+     - Print "false"
+7. If perimeter1 > perimeter2:
+     - Print "true" (perimeter of rectangle 1 is greater than perimeter of rectangle 2)
+   Else:
+     - Print "false"
+given sample input:
+
+Area of rectangle 1 = 1 * 2 = 2
+Area of rectangle 2 = 2 * 3 = 6
+Perimeter of rectangle 1 = 2 * (1 + 2) = 6
+Perimeter of rectangle 2 = 2 * (2 + 3) = 10
+
+so,the output will be:
+false
+false

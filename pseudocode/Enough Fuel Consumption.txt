@@ -1,0 +1,19 @@
+start:
+
+      required =  fuel * distance
+
+1. Read input values for fuel and distance.
+2. Calculate the required fuel: required = fuel \times distance
+3. If required > 50:
+     - Print "Enough" (you have enough fuel)
+   Else:
+     - Print "Go On" (continue the journey)
+
+=> For the given sample input:
+
+Fuel = 1
+Distance = 46
+Calculating the required fuel:
+   required = 1 * 46 = 46
+
+Since the required fuel (46) is less than 50, the output should be “Go On.”

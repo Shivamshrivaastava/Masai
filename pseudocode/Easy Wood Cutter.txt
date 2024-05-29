@@ -1,0 +1,15 @@
+To determine whether a given number N is divisible by 3, we can use the modulus operation. If the result of N % 3 is 0, then N is divisible by 3; otherwise, it is not.  The pseudocode to achieve this:
+
+1. Read the input value N.
+2. Calculate the remainder when N is divided by 3: remainder = N % 3
+3. If remainder equals 0:
+     - Print "Yes" (N is divisible by 3)
+   Else:
+     - Print "No" (N is not divisible by 3)
+
+For the given sample input N = 6:
+
+6 % 3 results in 0, so the output should be “Yes.”
+
+so, the output:-
+Yes

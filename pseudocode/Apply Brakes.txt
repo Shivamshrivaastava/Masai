@@ -1,0 +1,17 @@
+1. Read input values for distance and time.
+2. Calculate the speed: speed = distance / time
+3. If speed > 40:
+     - Print "Apply Brake"
+   Else:
+     - Print "Keep Going"
+
+For the given sample input:
+
+Distance = 100
+Time = 2
+
+Calculating the speed:
+Speed = 100/2 ​= 50
+Since the speed (50) is greater than 40, the output should be “Apply Brake.”
+Therefore, the output is:
+Apply Brake.

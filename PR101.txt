@@ -1,0 +1,3 @@
+Logical operator :-- Used to join two or more conditions
+example:-- and , or, not
+For the or operator: - if the left hand side of the condition is true, the right

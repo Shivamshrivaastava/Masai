@@ -1,0 +1,23 @@
+﻿begin
+    // input the values for num1 and num2
+    read num1, num2
+    
+    // perform the operations and print the results
+    if num1 > num2 then
+        print false
+    else
+        print true
+    end if
+    
+    if num1 < num2 then
+        print true
+    else
+        print false
+    end if
+    
+    if num1 == num2 then
+        print true
+    else
+        print false
+    end if
+end
